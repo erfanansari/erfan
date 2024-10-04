@@ -1,6 +1,6 @@
 {
 	"name": "erfan",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"license": "MIT",
 	"bin": {
 		"erfan": "dist/cli.js"
